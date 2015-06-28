@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartHabitsNew</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="title_activity_main_activity4">MainActivity4</string>
+    <string name="title_activity_main_activity5">MainActivity5</string>
+    <string name="title_activity_activity_graph">ActivityGraph</string>
+    <string name="title_activity_daily_stats">DailyStats</string>
+    <string name="title_activity_weekly_stats">WeeklyStats</string>
+    <string name="title_activity_mar_kov_chain">MarKovChain</string>
+    <string name="title_activity_smart_tips">SmartTips</string>
+    <string name="title_activity_activity_about">ActivityAbout</string>
+
+</resources>

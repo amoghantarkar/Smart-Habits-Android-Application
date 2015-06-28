@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aditya/Desktop/amoghSmartHabitsWorkingLatest/app/libs/achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="/home/aditya/Desktop/amoghSmartHabitsWorkingLatest/app/build/intermediates/pre-dexed/debug/achartengine-1.1.0-9991683d784f3a21723c0b49693bdc65aa00b66d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:id="@+id/markovLayout"
+    tools:context="smarthabitsnew.aditya.example.com.smarthabitsnew.MarKovChain">
+
+    <TextView android:text="Markov Chain named after Andrey Markov provides the probability with which one state transitions
+to the other. Here the states are assumed to be memoryless.
+In the above chart the transitions of study,recreation and others are shown."
+    android:textColor="@android:color/white"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="42dp" />
+
+</RelativeLayout>
+<!-- From: file:/home/aditya/Desktop/amoghSmartHabitsWorkingLatest/app/src/main/res/layout/activity_mar_kov_chain.xml -->
